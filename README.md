@@ -11,6 +11,11 @@
 <h2>🎓 Certifications</h2>
 <ul>
   <li>
+    <a href="https://www.credly.com/badges/65f5c0ae-414f-482f-ae99-f3c75a8548da/public_url" target="_blank">
+      AWS Certified Cloud Practitioner
+    </a>
+  </li>
+  <li>
     <a href="https://www.credly.com/badges/fa9ea4ef-a163-4428-8b92-bcc0723a59fe/public_url" target="_blank">
       ISC2 Certified in Cybersecurity (CC)
     </a>
